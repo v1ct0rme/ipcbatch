@@ -1,4 +1,4 @@
-#内网(域管理)ipc批量上传执行
+# 内网(域管理)ipc批量上传执行
 **在域渗透拿到域管理的情况下结合​[pstools](https://docs.microsoft.com/en-us/sysinternals/downloads/pstools)    中的psexec ipc批量上传执行**
 
 ![使用](https://i.imgur.com/BYNeIED.jpg)
