@@ -1,7 +1,7 @@
 # 内网(域环境内)ipc批量上传执行
 **在域渗透拿到域管理的情况下结合​[pstools](https://docs.microsoft.com/en-us/sysinternals/downloads/pstools)中的psexec**
 
-**设置ip前三位 例如192.168.1，从1-225开始自动扫描建立net ues连接-->复制文件-->psexec远程执行命令**
+**设置ip前三位 例如192.168.1，开始从1-225 建立ipc连接-->复制文件-->psexec远程执行命令**
 
 **更多域渗透中ipc命令的技巧参考twi1ight大神的文章 [域渗透前置基础知识](http://twi1ight.com/2016/04/basics-of-active-directory-hacking/)**
 ![使用](https://i.imgur.com/BYNeIED.jpg)
