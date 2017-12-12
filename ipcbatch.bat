@@ -1,4 +1,4 @@
-@echo off&sacn MAC,IP,computer name&color a&mode con: cols=60 lines=22
+@echo off&loding...&color a&mode con: cols=60 lines=22
 setlocal enabledelayedexpansion
 set ipq=10.1.1
 set /a ip1=1
